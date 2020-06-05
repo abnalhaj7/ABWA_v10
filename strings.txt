@@ -1,11 +1,1 @@
-<string name="Copy_Done">تم النسخ</string>
-<string name="Key_Encr">كلمة مرور التشفير</string>
-<string name="textview1_Encr">النص المراد تشفيره او الغاء تشفيره</string>
-<string name="textview2_Encr">النص بعد التشفير او فك التشفير</string>
-<string name="textview3_Encr">فك التشفير</string>
-<string name="textview4_Encr">تشفير</string>
-<string name="copy_Encr">نسخ</string>
-<string name="Sattings_Convertion_Speak_To_Text">تحويل الصوت الى نص</string>
-<string name="Sattings_Convertion_Encrypt">تشفير الرساله</string>
-<string name="Sattings_Convertion_Send_Empty">ارسال رساله فارغه</string>
-<string name="Sattings_Convertion_aymods">مميزات المحادثه</string>
+
